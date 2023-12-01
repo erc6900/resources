@@ -10,7 +10,9 @@ ERC-6900 provides smart contract interfaces and guidelines that allow for compos
 
 ### Community Calls
 
-Previous community call notes and recordings can be found in [Community Calls](./community-calls/README.md). Community calls are held roughly every other week, and meeting information for future calls can be found in [Issues](https://github.com/erc6900/resources/issues), where agenda items can be proposed.
+Community calls are held roughly every other week, following an agenda posted to [Issues](https://github.com/erc6900/resources/issues). Community members are welcome to request a discussion of topics by posting a comment to a given meeting's agenda. 
+
+Previous community call notes and recordings can be found in [Community Calls](./community-calls/README.md). 
 
 ### Other Channels
 
