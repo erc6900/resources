@@ -1,8 +1,8 @@
 # ERC-6900 Resources
 
-[![Static Badge](https://img.shields.io/badge/erc-6900-salmon)](https://ercs.ethereum.org/ERCS/erc-6900) ![Static Badge](https://img.shields.io/badge/status-draft-yellow) [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/erc6900)](https://twitter.com/intent/follow?screen_name=erc6900)
+[![Static Badge](https://img.shields.io/badge/erc-6900-salmon)](https://eips.ethereum.org/EIPS/eip-6900) ![Static Badge](https://img.shields.io/badge/status-draft-yellow) [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/erc6900)](https://twitter.com/intent/follow?screen_name=erc6900)
 
-A collection of resources for all things [ERC-6900](https://ercs.ethereum.org/ERCS/erc-6900).
+A collection of resources for all things [ERC-6900](https://eips.ethereum.org/EIPS/eip-6900).
 
 ERC-6900 provides smart contract interfaces and guidelines that allow for composable logic within smart contract accounts, with the goal of reducing fragmentation in the growing smart account and plugin ecosystems.
 
