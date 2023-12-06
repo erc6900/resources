@@ -14,5 +14,5 @@ This page is a coordination mechanism for periodic community calls about ERC-690
 
 | Date  | Agenda | Recordings | Transcript | Summary |
 | --- | --- | --- | --- | --- | 
-| Dec 5, 2023  | [Agenda](https://github.com/erc6900/resources/issues/3)  | [Video](https://alchemy.zoom.us/rec/play/nK3fBkTJKRlNmpK5ZgTa6QvWmOsj7QlYwDeCJcRA2aw7_ATedLOZ4UxGz5aDcLVQ0CSMD6vMevQPib2w.N-lCzE9QTJokhawZ)  | TBD  | TBD  |
+| Dec 5, 2023  | [Agenda](https://github.com/erc6900/resources/issues/3)  | [Video](https://alchemy.zoom.us/rec/play/nK3fBkTJKRlNmpK5ZgTa6QvWmOsj7QlYwDeCJcRA2aw7_ATedLOZ4UxGz5aDcLVQ0CSMD6vMevQPib2w.N-lCzE9QTJokhawZ)  | TBD  | [Summary](https://github.com/erc6900/resources/issues/3#issuecomment-1843878570)  |
 | Nov 7, 2023  | [Slides](https://docs.google.com/presentation/d/11PzDrBr-OhRk44rf4dzgFE87I9_3LDB8eTeAlLYR9ls/edit?usp=sharing)  |  [Video](https://alchemy.zoom.us/rec/play/dMm1g_IkDxmEt3SQ0j2euqpWSfA__42y8zl4_GlQdOX-HNdjvl1uoSiqDhM9bOuwEShwYRxxg17IEelQ.ue4rZXEICHlG89HG)  | [Raw file](https://docs.google.com/document/d/1QgFPeq_k7uL6W8CwsNo15WXxPHwUFz0bezdmQ-h2LIk/edit)  | [Summary](https://docs.google.com/document/d/1EUsWw43hvQsqKH25s_HMA8BxzcVyySUadLO_JwwXd6M/edit?usp=sharing)  |
