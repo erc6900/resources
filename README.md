@@ -1,6 +1,9 @@
 # ERC-6900 Resources
 
-[![Static Badge](https://img.shields.io/badge/erc-6900-salmon)](https://eips.ethereum.org/EIPS/eip-6900) ![Static Badge](https://img.shields.io/badge/status-draft-yellow) [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/erc6900)](https://twitter.com/intent/follow?screen_name=erc6900)
+[![Static Badge](https://img.shields.io/badge/erc-6900-salmon)](https://eips.ethereum.org/EIPS/eip-6900) ![Static Badge](https://img.shields.io/badge/status-draft-yellow) [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/erc6900)](https://twitter.com/intent/follow?screen_name=erc6900)[![tg_badge]][tg_link]
+
+[tg_badge]: https://img.shields.io/endpoint?color=neon&logo=telegram&label=chat&url=https://mogyo.ro/quart-apis/tgmembercount?chat_id=modular_account_standards
+[tg_link]: https://t.me/modular_account_standards
 
 A collection of resources for all things [ERC-6900](https://eips.ethereum.org/EIPS/eip-6900).
 
@@ -10,7 +13,7 @@ ERC-6900 provides smart contract interfaces and guidelines that allow for compos
 
 ### Community Calls
 
-Community calls are held roughly every other week, following an agenda posted to [Issues](https://github.com/erc6900/resources/issues?q=is%3Aopen+is%3Aissue+label%3A%22community+call+agenda%22). Community members are welcome to request a discussion of topics by posting a comment to a given meeting's agenda. 
+Community calls are held roughly every other week, following an agenda posted to [Issues](https://github.com/erc6900/resources/issues?q=is%3Aopen+is%3Aissue+label%3A%22community+call+agenda%22). Community members are welcome to request a discussion of topics by posting a comment to a given meeting's agenda.
 
 Previous community call notes and recordings can be found in [Community Calls](./community-calls/README.md).
 
