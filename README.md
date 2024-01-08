@@ -1,6 +1,6 @@
 # ERC-6900 Resources
 
-[![Static Badge](https://img.shields.io/badge/erc-6900-salmon)](https://eips.ethereum.org/EIPS/eip-6900) ![Static Badge](https://img.shields.io/badge/status-draft-yellow) [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/erc6900)](https://twitter.com/intent/follow?screen_name=erc6900)[![tg_badge]][tg_link]
+[![Static Badge](https://img.shields.io/badge/erc-6900-salmon)](https://eips.ethereum.org/EIPS/eip-6900) ![Static Badge](https://img.shields.io/badge/status-draft-yellow) [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/erc6900)](https://twitter.com/intent/follow?screen_name=erc6900) [![tg_badge]][tg_link]
 
 [tg_badge]: https://img.shields.io/endpoint?color=neon&logo=telegram&label=chat&url=https://mogyo.ro/quart-apis/tgmembercount?chat_id=modular_account_standards
 [tg_link]: https://t.me/modular_account_standards
