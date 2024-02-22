@@ -15,7 +15,7 @@ This page is a coordination mechanism for periodic community calls about ERC-690
 | Date  | Agenda | Recordings | Summary |
 | --- | --- | --- | --- | 
 | Feb 22, 2024 | [Agenda]
-(https://github.com/erc6900/resources/issues](https://github.com/erc6900/resources/issues/28#issue-2147352729) | [Video](https://alchemy.zoom.us/rec/play/uL9AHi6AEZdDOL77bs-h0) | Summary |
+(https://github.com/erc6900/resources/issues/28#issue-2147352729) | [Video](https://alchemy.zoom.us/rec/play/uL9AHi6AEZdDOL77bs-h0) | Summary |
 | Jan 25, 2024 | [Agenda](https://github.com/erc6900/resources/issues/26#issue-2092883155)| [Video](https://alchemy.zoom.us/rec/play/iFeSpnhQM0m2oc9vlIZq7o6qFrvwFzalJtwuOav5YQHPnrbvM0Px8UJfHGN-sXZ73nHm4iAE3RdtWXR7.Hg9WI26PP1-t2O2I) | [Summary](https://github.com/erc6900/resources/issues/26#issuecomment-1910783400) |
 | Jan 11, 2024 | [Agenda](https://github.com/erc6900/resources/issues/23#issue-2060380506) | [Video](https://alchemy.zoom.us/rec/play/YwnoR07wKLHMF_LA8-16H-7g_1Cj1t1FLH9gURaY8baJc1Woev6r3NmkZBAA-XbZfHZFK7HfAXCAzZRe.GA2FTJqcq7rbgAc1?autoplay=true) | [Summary](https://github.com/erc6900/resources/issues/23#issuecomment-1888389367) | 
 | Dec 19, 2023 | [Agenda](https://github.com/erc6900/resources/issues/19#issue-2038396083) | [Video](https://alchemy.zoom.us/rec/play/HbFYQb7U0REfp7-SSSzLCPdh0cmxGRJUQhqMnkKDt9yhTeJCahkadAmNqds_VmIzSnApkBEjz_yQvYtW.ukrJd-0FEXqjh1Yy) | [Summary](https://github.com/erc6900/resources/issues/19#issuecomment-1863321120) |
