@@ -18,6 +18,9 @@ Previous call [recap]()
 
 ### Agenda
 
-1. TBD
+1. Ecosystem developments
+2. ERC-6900 update
+3. Research and development
+4. Open discussion
 
 To add or request a topic that you'd like to discuss, please comment in response to this Issue below!
