@@ -9,6 +9,15 @@ A collection of resources for all things [ERC-6900](https://eips.ethereum.org/EI
 
 ERC-6900 provides smart contract interfaces and guidelines that allow for composable logic within smart contract accounts, with the goal of reducing fragmentation in the growing smart account and plugin ecosystems.
 
+## How to Write a Plugin
+
+Check out these resources to get started building plugins:
+
+- 📺 [How to build an ERC-6900 Plugin Part 1](https://www.youtube.com/watch?v=ht9FJYYkF2A)
+- 📺 [How to build an ERC-6900 Plugin Part 2](https://www.youtube.com/watch?v=vvjJLz1atP4)
+- 🧑‍💻 [Plugin starter template](https://github.com/erc6900/plugin-template)
+- 📝 [How to write an ERC-6900 Plugin](https://dev.collab.land/blog/how-to-write-an-erc-6900-plugin/)
+
 ## Discussion
 
 ### Community Calls
